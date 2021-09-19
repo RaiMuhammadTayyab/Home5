@@ -16,6 +16,7 @@
   },
   "license": "0BSD",
   "dependencies": {
+    "faunadb": "^4.4.1",
     "formik": "^2.2.6",
     "gatsby": "^2.26.1",
     "react": "^16.13.1",
